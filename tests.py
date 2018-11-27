@@ -1,7 +1,7 @@
 """test.py"""
 
 import unittest
-from calculator import add_function, multiplication_function, subtract_function, division_function, remainder_function
+from app.calculator import add_function, multiplication_function, subtract_function, division_function, remainder_function
 
 
 class TestCalculator(unittest.TestCase):
